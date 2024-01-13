@@ -5,25 +5,28 @@
 }
 h1 {text-align: center;}
 #pesos {
+    height: 90vh;
     position: relative;
     background-color: rgb(10, 223, 152);
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    height: 80vh;
     padding-top: 10vh;
 }
 
 .conteiner {
     background-color: aquamarine;
     padding: 1em;
-    height: 360px; 
+    height: 300px; 
     text-align: center;
     vertical-align: baseline;   
     text-align: center;
-    vertical-align: top;
+    bottom: 0px;
 }
-
+.altura {
+    display: block;
+    height: 65vh;
+}
 .ceb-23 {
     width: 409px;
     flex-grow: .1;
@@ -134,7 +137,7 @@ h1 {text-align: center;}
 #botao {
     position: absolute;
     padding-left: 10vw;
-    padding-top: 65vh;
+    padding-top: 76vh;
 }
 
 input[type="checkbox"]{
