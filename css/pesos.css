@@ -29,7 +29,7 @@ h1 {text-align: center;}
 }
 .ceb-23 {
     width: 409px;
-    flex-grow: .1;
+    flex-grow: .2;
     flex-shrink: 1;
     background: url(../imagens/BR-23.png) ;
     background-repeat: no-repeat;
@@ -45,7 +45,7 @@ h1 {text-align: center;}
 
 .ceb-33 {
     width: 248px;
-    flex-grow: .1;
+    flex-grow: .2;
     flex-shrink: 1;
     background: url(../imagens/BR-33.png) ;
     background-repeat: no-repeat;
@@ -60,7 +60,7 @@ h1 {text-align: center;}
 .ceb-33:hover::after { content: "Cebrreja 34 Light Italic Wd";}
 .ceb-43 {
     width: 128px;
-    flex-grow: .1;
+    flex-grow: .2;
     flex-shrink: 1;
     background: url(../imagens/BR-43.png) ;
     background-repeat: no-repeat;
@@ -75,7 +75,7 @@ h1 {text-align: center;}
 .ceb-43:hover::after { content: "Cebrreja 44 ItWd";}
 .ceb-53 {
     width: 101px;
-    flex-grow: .1;
+    flex-grow: .2;
     flex-shrink: 1;
     background: url(../imagens/BR-53.png) ;
     background-repeat: no-repeat;
@@ -90,7 +90,7 @@ h1 {text-align: center;}
 .ceb-53:hover::after { content: "Cebrreja 54 Medium ItWd";}
 .ceb-63 {
     width: 78px;
-    flex-grow: .1;
+    flex-grow: .2;
     flex-shrink: 1;
     background: url(../imagens/BR-63.png) ;
     background-repeat: no-repeat;
@@ -105,7 +105,7 @@ h1 {text-align: center;}
 .ceb-63:hover::after { content: "Cebrreja 64 Bold ItWd";}
 .ceb-73 {
     width: 62px;
-    flex-grow: .1;
+    flex-grow: .2;
     flex-shrink: 1;
     background: url(../imagens/BR-73.png) ;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ h1 {text-align: center;}
 .ceb-73:hover::after { content: "Cebrreja 74 Heavy ItWd";}
 .ceb-83 {
     width: 53px;
-    flex-grow: .1;
+    flex-grow: .2;
     flex-shrink: 1;
     background: url(../imagens/BR-83.png) ;
     background-repeat: no-repeat;
